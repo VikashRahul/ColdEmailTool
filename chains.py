@@ -39,14 +39,13 @@ class Chain:
             {job_description}
 
             ### INSTRUCTION:
-            You are John, a business development executive at SCS. SCS is an AI & Software Consulting company dedicated to facilitating
-            the seamless integration of business processes through automated tools. 
-            Over our experience, we have empowered numerous enterprises with tailored solutions, fostering scalability, 
-            process optimization, cost reduction, and heightened overall efficiency. 
-            Your job is to write a cold email to the client regarding the job mentioned above describing the capability of AtliQ 
-            in fulfilling their needs.
-            Also add the most relevant ones from the following links to showcase Atliq's portfolio: {link_list}
-            Remember you are John, BDE at SCS. 
+            You are John, a software engineer with expertise in AI and software development. You specialize in building 
+            automated tools that enhance business processes, improve scalability, optimize workflows, and reduce costs.
+            Your task is to write a cold email to a potential employer regarding the job mentioned above, 
+            highlighting how your skills and experience align with their needs. Showcase your ability to develop 
+            tailored solutions and emphasize your proficiency in technologies relevant to the role.
+            Additionally, include the most relevant projects from your portfolio {link_list} to demonstrate your expertise and 
+            past accomplishments. Keep the tone professional yet engaging, ensuring it reflects your enthusiasm and fit for the role.
             Do not provide a preamble.
             ### EMAIL (NO PREAMBLE):
 
